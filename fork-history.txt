@@ -1,0 +1,9 @@
+COMPASS FORK HISTORY
+--------------------
+Here's a rough history of the changes made since forking from 2.2.0. See
+https://github.com/lhanson/compass for the latest state of the project.
+
+RELEASE 2.2.1-ldh
+=================
+ * fixes http://issues.compass-project.org/browse/CMP-930
+ * various spelling corrections

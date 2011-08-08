@@ -1,7 +1,20 @@
-COMPASS, Release 2.2.1
+COMPASS, Release 2.2.1-ldh
 ----------------------
-http://www.compass-project.org
+http://www.compass-project.org / https://github.com/lhanson/compass
 
+0. ABOUT THIS FORK
+
+This is a fork of the original Compass project, created to maintain patches in
+the absence of official Compass releases as the project is no longer actively
+maintained. See https://github.com/lhanson/compass for the latest code from
+this fork. A history of changes to this fork can be found in fork-history.txt.
+
+To use this code in a Maven project, use the following dependency:
+    <dependency>
+        <groupId>org.github.lhanson</groupId>
+        <artifactId>compass</artifactId>
+        <version>2.2.1-ldh</version>
+    </dependency>
 
 1. INTRODUCTION
 
