@@ -1,2 +1,5 @@
 target
 velocity.log
+dist
+docs/api
+docs/reference

@@ -12,7 +12,7 @@
     <groupId>com.github.lhanson</groupId>
     <artifactId>compass</artifactId>
     <name>Compass</name>
-    <version>2.2.1-ldh</version>
+    <version>2.2.2-ldh</version>
     <description>Compass Search Engine Framework</description>
     <packaging>jar</packaging>
 

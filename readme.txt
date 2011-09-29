@@ -1,4 +1,4 @@
-COMPASS, Release 2.2.1-ldh
+COMPASS, Release 2.2.2-ldh
 ----------------------
 http://www.compass-project.org / https://github.com/lhanson/compass
 
@@ -13,7 +13,7 @@ To use this code in a Maven project, use the following dependency:
     <dependency>
         <groupId>org.github.lhanson</groupId>
         <artifactId>compass</artifactId>
-        <version>2.2.1-ldh</version>
+        <version>2.2.2-ldh</version>
     </dependency>
 
 1. INTRODUCTION

@@ -7,3 +7,8 @@ RELEASE 2.2.1-ldh
 =================
  * fixes http://issues.compass-project.org/browse/CMP-930
  * various spelling corrections
+
+RELEASE 2.2.2-ldh
+=================
+ * EclipseLink 2.3.1 compatibility
+ * Fixed broken Eclipse .classpath file due to version changes of libs
